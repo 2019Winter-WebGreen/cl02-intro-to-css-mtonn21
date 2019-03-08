@@ -1,0 +1,38 @@
+/*
+* Maddie Tonn 
+* Due Date 
+* Project Name and Description 
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { 
+    background-color: bisque;
+    width: 80%;
+    margin: auto;
+    font-family: Arial;
+
+}
+
+h1 {
+    background-color: coral; /* color for background */ 
+    color: white; /* color of text */
+}
+
+p { 
+    color: navy;
+}
+
+#redText {
+    color: red;
+}
+
+.greenText {
+    color: green;
+}
